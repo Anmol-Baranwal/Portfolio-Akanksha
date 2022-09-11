@@ -28,7 +28,7 @@ Link will be available soon.
    - JQuery CountTo
 
 ## 🧩 Let's Play A Game
-- I am creating an issue in which you have to either decode the JavaScript File or you can write your own code to achieve the same functionality. This will be a solid test of your fundamentals. Create a Pull Request to merge the changes.
+- I am creating an issue in which you have to either decode the JavaScript [File](https://github.com/Anmol-Baranwal/Portfolio_Vanilla-Js/blob/main/js/index.js) or you can write your own code to achieve the same functionality. This will be a solid test of your fundamentals. Create a Pull Request to merge the changes.
 
 - However, if you feel that you need the js file for your learning then create an issue with label as `JS File Needed`. I will add it in the repo.
 
@@ -38,17 +38,17 @@ Link will be available soon.
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-
 ## 📙 References
 
-- https://github.com/micku7zu/vanilla-tilt.js
-- https://fontawesome.com/
-- https://icofont.com/icons
 - https://blog.getbootstrap.com/2021/05/13/bootstrap-5-0-1/
-- https://github.com/OwlCarousel2/OwlCarousel2
 - https://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
+- https://fontawesome.com/
+- https://github.com/cferdinandi/smooth-scroll
 - https://github.com/mattboldt/typed.js/
 - https://github.com/mhuggins/jquery-countTo#readme
+- https://github.com/micku7zu/vanilla-tilt.js
+- https://github.com/OwlCarousel2/OwlCarousel2
+- https://icofont.com/icons
 
 ## ⌛ Contributions are Welcomed
 You can create issue for suggestions & fork this repo for contributing.
