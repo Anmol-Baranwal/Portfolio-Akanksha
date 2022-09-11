@@ -8,7 +8,7 @@ Portfolio of **Akanksha Baranwal** made using HTML5, CSS3, JavaScript with sideb
 Visit the portfolio here.
 
 ```
-Link will be available soon.
+ https://anmol-baranwal.github.io/Portfolio-Akanksha/
 ```
 <hr>
 
